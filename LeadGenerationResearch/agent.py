@@ -45,5 +45,13 @@ root_agent = Agent(
     after_tool_callback=[after_tool_run],
 )
 
+from google.adk.apps.app import App, ResumabilityConfig
+
+app = App(
+    name="LeadGenerationResearch",
+    root_agent=root_agent,
+    resumability_config=ResumabilityConfig(is_resumable=True),
+)
+
 
 

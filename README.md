@@ -2,6 +2,8 @@
 
 This project is an advanced, interactive lead generation system built on an agentic framework. It intelligently discovers investment patterns from successful companies and uses that knowledge to identify new leads in target markets. The agent is designed to be highly interactive, allowing the user to guide the workflow and make key decisions at critical points.
 
+Youtube Demo : https://youtu.be/OCGffxXBHyU
+
 ## Agentic Architecture: Learning and Prediction
 
 The core of this system is its agentic design, which mimics a human research process to learn from the past and predict the future. The workflow is divided into two main phases:
